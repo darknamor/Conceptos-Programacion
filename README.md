@@ -1,2 +1,2 @@
-# Conceptos-Programaci-n
+# Conceptos-Programación
 Cosas de HTML,JS,CSS
